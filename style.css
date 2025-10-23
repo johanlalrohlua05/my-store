@@ -57,7 +57,7 @@ footer {
 /* --- Home Page --- */
 .hero {
   background: url('https://via.placeholder.com/1200x400') center/cover no-repeat;
-  color: white;
+  color: black;
   text-align: center;
   padding: 100px 20px;
 }
